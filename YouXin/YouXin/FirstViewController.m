@@ -9,7 +9,7 @@
 #import "FirstViewController.h"
 
 @interface FirstViewController ()
-@property (weak, nonatomic) IBOutlet UITabBarItem *tabBar;
+
 
 @end
 
